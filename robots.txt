@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: ruletka-onlayn-na-rubli.github.io
+Sitemap: https://ruletka-onlayn-na-rubli.github.io/sitemap.xml
